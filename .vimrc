@@ -3,6 +3,9 @@ call plug#begin('~/.vim/plugged')
 Plug 'scrooloose/nerdtree', {'on': 'NERDTreeToggle'}
 Plug 'ycm-core/YouCompleteMe'
 Plug 'morhetz/gruvbox'
+Plug 'jiangmiao/auto-pairs'
+Plug 'airblade/vim-gitgutter' 
+Plug 'easymotion/vim-easymotion'
 
 call plug#end()
 
